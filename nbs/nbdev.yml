@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Visualize-Understand-CNNs"
+  site-url: "https://xl0.github.io/Visualize-Understand-CNNs"
+  description: "My attempt at the Zeiler and Fergus paper"
+  repo-branch: master
+  repo-url: "https://github.com/xl0/Visualize-Understand-CNNs"
