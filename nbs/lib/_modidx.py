@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://xl0.github.io',
                 'git_url': 'https://github.com/xl0/Visualize-Understand-CNNs',
                 'lib_path': 'nbs/lib'},
-  'syms': {}}
+  'syms': { 'lib.impl': { 'lib.impl.pos_sigmas': ('impl.html#pos_sigmas', 'lib/impl.py'),
+                          'lib.impl.save_hook': ('impl.html#save_hook', 'lib/impl.py'),
+                          'lib.impl.sigmas': ('impl.html#sigmas', 'lib/impl.py')}}}
